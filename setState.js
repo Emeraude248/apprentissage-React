@@ -1,4 +1,5 @@
 //méthode setState pour modifier un composant, demande à React de réafficher
+//héritée de Component
 
 handleClick = () => {
     this.setState({ compteur: this.state.compteur + 1});
