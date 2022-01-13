@@ -6,3 +6,5 @@
 ### se former à
 
 - la méthode map()
+
+(ordre : fonction en flèches, this, steState, key, slice, finIndex)
