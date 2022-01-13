@@ -25,6 +25,7 @@ class App extends React.Component {
         return client.id === id
       });
     //quel client ? mais je suis pas sûre de comprendre d'où vient le "client" ^^
+    // le client est l'argument de la fonction il vient comme remplacer clients dans la chaine clients.id > client.id
     // version une ligne : const index = clients.findIndex(client => client.id === id });
   
       clients.splice(index, 1);
