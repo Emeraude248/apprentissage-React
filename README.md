@@ -1,7 +1,7 @@
 # apprentissage-React
 
 - interpolation {var}, fonction en flèche (js), le soucis du this
-- suppression de données affichées : findIndex slice splice steState
+- suppression de données affichées : findIndex slice splice setState
 
 ### se former à
 
