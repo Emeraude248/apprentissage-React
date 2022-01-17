@@ -13,5 +13,5 @@ j'ai laché les notes du tuto de Lior pour le moment
 
 ### freeCodeCamp
 
-ReactDOM.render, class className onchange onChange onclick onClick ;
+ReactDOM.render (différence élément JSX et composant React), class className onchange onChange onclick onClick ;
 - les composants base de React, création, structure, imbriqués (enfants parents)
