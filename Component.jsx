@@ -1,4 +1,4 @@
-//créer un composant React à base de fonciton JS
+//créer un composant React à base de fonction JS
 
 const MyComponent = function() {
    

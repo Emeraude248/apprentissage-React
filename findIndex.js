@@ -2,7 +2,7 @@
 
 
 //findIndex permet de trouver l'emplacemnt d'un élément dans un tableau
-//slice pour faire une copie de clienst et ne pas travailler sur les données de l'état
+//slice pour faire une copie de clients et ne pas travailler sur les données de l'état
 
 import React from "react";
 import ReactDOM from "react-dom";
@@ -51,7 +51,6 @@ class App extends React.Component {
     );
   }
 }
-
 
 const rootElement = document.getElementById("root");
 ReactDOM.render(<App />, rootElement);
